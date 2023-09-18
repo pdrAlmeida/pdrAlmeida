@@ -1,28 +1,26 @@
-# Pedro - Desenvolvedor .NET
+# Pedro - Desenvolvedor .NET Back-End Jr. | C#
 
 Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
 - 🏠 Localização: Porto Alegre, RS
 - 👨‍💻 Desenvolvedor de Software com 2 anos de experiência
-- 💪 Objetivos: Morar sozinho e se tornar um líder de tecnologia
+- 💪 Objetivos: Me tornar um líder de tecnologia
 
 ## Tecnologias
 - Linguagem principal: C#
 - Framework preferido: .NET
-- Interesses: DevOps, Clean Code, automação residencial
+- Interesses: DevOps e Desenvolvimento .NET
 
 ## Projetos Destacados
-- [ATUS](link-do-seu-repositorio): Minha aplicação .NET focada em gerenciamento de processos jurídicos
+- [ATUS]((https://www.atus.app/)): Aplicação .NET focada em gerenciamento de processos jurídicos.
+- [API de Notificações via Discord] ((https://github.com/pdrAlmeida/DiscordNotificacaoAPI)): Esta é uma API simples para enviar notificações para servidores do Discord.
 
 ## Objetivos
-- Continuar na carreira de DevOps
-- Seguir os princípios do Clean Code, SOLID e Design Patterns
+- Conhecer mais sobre a carreira de DevOps
+- Aprimorar os conhecimentos acerca dos princípios do Clean Code, SOLID e Design Patterns
 
 ## Redes Sociais
-- [LinkedIn](link-do-seu-linkedin)
-- [Twitter](link-do-seu-twitter)
+- [LinkedIn]([link-do-seu-linkedin](https://www.linkedin.com/in/pdralmeida/))
 
-![Estatísticas do GitHub](link-para-estatisticas-no-shields-io)
-
-Fique à vontade para explorar meus projetos e entrar em contato se quiser conversar sobre desenvolvimento de software, tecnologia ou qualquer outro tópico que você achar interessante. Vamos codar juntos! 🚀
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pdralmeida&show_icons=true&theme=dracula&count_private=true)
