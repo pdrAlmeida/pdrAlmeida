@@ -13,12 +13,12 @@ Bem-vindo ao meu perfil do GitHub! 👋
 - Interesses: DevOps e Desenvolvimento .NET
 
 ## Projetos Destacados
-- [ATUS]((https://www.atus.app/)): Aplicação .NET focada em gerenciamento de processos jurídicos.
-- [API de Notificações via Discord] ((https://github.com/pdrAlmeida/DiscordNotificacaoAPI)): Esta é uma API simples para enviar notificações para servidores do Discord.
+- [ATUS](https://www.atus.app/): Aplicação .NET focada em gerenciamento de processos jurídicos.
+- [API de Notificações via Discord](https://github.com/pdrAlmeida/DiscordNotificacaoAPI): Esta é uma API simples para enviar notificações para servidores do Discord.
 
 ## Objetivos
 - Conhecer mais sobre a carreira de DevOps
 - Aprimorar os conhecimentos acerca dos princípios do Clean Code, SOLID e Design Patterns
 
 ## Redes Sociais
-- [LinkedIn]((https://www.linkedin.com/in/pdralmeida/))
+- [LinkedIn](https://www.linkedin.com/in/pdralmeida/)
