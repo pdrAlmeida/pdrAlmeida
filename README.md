@@ -21,6 +21,4 @@ Bem-vindo ao meu perfil do GitHub! 👋
 - Aprimorar os conhecimentos acerca dos princípios do Clean Code, SOLID e Design Patterns
 
 ## Redes Sociais
-- [LinkedIn]([link-do-seu-linkedin](https://www.linkedin.com/in/pdralmeida/))
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pdralmeida&show_icons=true&theme=dracula&count_private=true)
+- [LinkedIn]((https://www.linkedin.com/in/pdralmeida/))
