@@ -14,6 +14,7 @@ Bem-vindo ao meu perfil do GitHub! 👋
 ## Projetos Destacados
 - [ATUS](https://www.atus.app/): Aplicação .NET focada em gerenciamento de processos jurídicos.
 - [API de Notificações via Discord](https://github.com/pdrAlmeida/DiscordNotificacaoAPI): Esta é uma API simples para enviar notificações para servidores do Discord.
+- [Ranked das Estrelas](https://github.com/pdrAlmeida/RankedDasEstrelas): Bot de discord que recebe uma URL pelo chat, busca os resultados de uma partida de League of Legends, e cria um rank de pontos corridos para os players pré-cadastrados.
 
 ## Tecnologias
 <div style="display: inline_block">
