@@ -1,4 +1,4 @@
-# Pedro - Desenvolvedor .NET Back-End Jr. | C#
+# Pedro - Desenvolvedor .NET Back-End | C#
 
 Bem-vindo ao meu perfil do GitHub! 👋
 
