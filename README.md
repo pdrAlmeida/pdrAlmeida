@@ -1,7 +1,5 @@
 # Pedro - Desenvolvedor .NET Back-End | C#
 
-Bem-vindo ao meu perfil do GitHub! 👋
-
 ## Sobre Mim
 - 🏠 Localização: Porto Alegre, RS
 - 👨‍💻 Desenvolvedor de Software com 3 anos de experiência
