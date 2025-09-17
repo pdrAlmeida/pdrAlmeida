@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - 🏠 Localização: Porto Alegre, RS
-- 👨‍💻 Desenvolvedor de Software com 3 anos de experiência
+- 👨‍💻 Desenvolvedor de Software com 4 anos de experiência
 
 ## Objetivos
 - Me tornar um líder de tecnologia 
